@@ -1,10 +1,18 @@
+body {
+  background-image: url(./img/wallpaper.jpg);
+	color: white;
+}
+
 h1 {
     text-align: center;
   }
   
   .container {
-    background-color: rgb(255, 255, 255);
+    background-color: burlywood;
     padding: 10px 0;
+    margin-left: 42%;
+    margin-right: 42%;
+    margin-top: 15%;
   }
   
   .marker {
